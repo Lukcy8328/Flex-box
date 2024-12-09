@@ -1,0 +1,14 @@
+.container{
+    display: flex;  
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+}
+ #part1, #part2, #part3, #part4, #part5, #part6{
+    
+    background-color: rgb(242, 159, 213);
+    width:150px;
+    height:150px;
+    margin: 10px;
+    
+}
